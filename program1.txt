@@ -20,11 +20,7 @@
         <option value="Rahul Dravid"></option>
         <option value="Shane Warne"></option>
         <option value="Rohit Sharma"></option>
-        <option value="Donald Bradman"></option>
-        <option value="Saurav Ganguly "></option>
-        <option value="AB diVilliers"></option>
-        <option value="Mahendra Singh Dhoni"></option>
-        <option value="Adam Gilchrist"></option>
+       
       </datalist>
     </label>
   </body>
